@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_icons">10dp</dimen>
+    <dimen name="padding_text_view">12dp</dimen>
+    <dimen name="left">8dp</dimen>
+    <dimen name="right">8dp</dimen>
+</resources>

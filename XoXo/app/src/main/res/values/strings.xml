@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">XoXo</string>
+    <string name="xoxo_text">XoXo Cafe and roastery</string>
+    <string name="ksa_name"> kSA_Madina Al Monawara</string>
+    <string name="Working_time">Working hours 7:00am - 1:00am</string>
+    <string name="website_text">www.xoxo.com.sa</string>
+    <string name="Location_text">info@xoxo.com.sa</string>
+    <string name="phone_number">Cell: +966 (0) 53 910 6900</string>
+    <string name="name_text">Description:</string>
+    <string name="description_text">A coffee shop specializing in the preparation of specialized coffee prepared from the finest types of coffee, the cafe also offers dishes of different kinds of sweet pastries, and lemon juice refreshing mint refreshing, and the place is characterized by distinctive design and attractive and comfortable sessions.</string>
+</resources>
